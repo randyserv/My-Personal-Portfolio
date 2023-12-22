@@ -7,4 +7,8 @@
     <RootNamespace>My_Personal_Portfolio_Servanda</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="root\" />
+  </ItemGroup>
+
 </Project>
